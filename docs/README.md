@@ -3,26 +3,18 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
-title:
+repository-name: e19-co226-Grocerry-Shop
+title: Online Grocery Shop WebPage
 ---
 
-[comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
-
-# Project Title
+# Online Grocery Shop WebPage
 
 ---
-
-<!-- 
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-
-![Sample Image](./images/sample.png)
- -->
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  e19007, Achsuthan, [e19007@eng.pdn.ac.lk](mailto:name@email.com)
+-  e19134, Harnan, [e19134@eng.pdn.ac.lk](mailto:name@email.com)
+-  e19266, Nithusikan, [e19266@eng.pdn.ac.lk](mailto:name@email.com)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -33,7 +25,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Introduction
 
- description of the real world problem and solution, impact
+Creating an innovative online grocery shop website that offers convenience and efficiency in grocery shopping. The platform aims to provide a diverse range of products, an intuitive interface, and personalized features like user accounts and saved lists. With secure transactions, flexible delivery options, and promotions, the website aims to enhance the user experience.
 
 ## Other Sub Topics
 
